@@ -8,32 +8,39 @@ This repository is organized by topic. Each module contains detailed notes, diag
 
 ### Core Concepts
 
-* **[Load Balancing](./System%20Design%20Lesson_%20Load%20Balancing.md)**
-* [Caching]() *(Coming Soon)*
-* [Proxies (Forward vs. Reverse)]() *(Coming Soon)*
-* [Rate Limiting]() *(Coming Soon)*
-* [CAP Theorem]() *(Coming Soon)*
-* [Consistent Hashing]() *(Coming Soon)*
+* **Load Balancing**
+* Caching
+* Proxies (Forward vs. Reverse)
+* Rate Limiting
+* CAP Theorem
+* Consistent Hashing
 
 ### Database & Data Storage
 
-* [Database Sharding / Partitioning]() *(Coming Soon)*
-* [Database Replication]() *(Coming Soon)*
-* [SQL vs. NoSQL]() *(Coming Soon)*
-* [Indexes]() *(Coming Soon)*
+* Database Sharding / Partitioning
+* Database Replication
+* SQL vs. NoSQL
+* Indexes
 
 ### Communication & Integration
 
-* [Message Queues]() *(Coming Soon)*
-* [APIs (REST, gRPC, GraphQL)]() *(Coming Soon)*
-* [Architectural Patterns (Monolith vs. Microservices)]() *(Coming Soon)*
+* Message Queues
+* APIs (REST, gRPC, GraphQL)
+* Architectural Patterns (Monolith vs. Microservices)
 
 ### Scalability & Reliability
 
-* [Fault Tolerance & High Availability]() *(Coming Soon)*
-* [Content Delivery Network (CDN)]() *(Coming Soon)*
-* [Domain Name System (DNS)]() *(ComingSoon)*
+* Fault Tolerance & High Availability
+* Content Delivery Network (CDN)
+* Domain Name System (DNS)
 
+---
+
+
+
+## Contributing
+
+This is a living document. If you find errors, want to improve a lesson, or add a new topic, please feel free to open an issue or submit a pull request.
 ---
 
 ## How to Use This Repo
