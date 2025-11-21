@@ -1,9 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# add this link in ti [https://1akshayyyyyyyy.github.io/Day-5---Database-Sharding/](https://1akshayyyyyyyy.github.io/Day-5---Database-Sharding/)
 
 Here is the updated Day 5 lesson on Database Sharding in Markdown format with the requested link included at the end for easy reference:
-
+https://1akshayyyyyyyy.github.io/Day-5---Database-Sharding/
 ***
 
 # Day 5: Database Sharding
