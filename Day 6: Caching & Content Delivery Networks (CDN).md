@@ -1,5 +1,6 @@
 
 # Day 6: Caching & Content Delivery Networks (CDN)
+https://1akshayyyyyyyy.github.io/Day-6-Caching-Content-Delivery-Networks-CDN-/
 
 ## Learning Objectives
 - Understand caching mechanisms and their benefits.
